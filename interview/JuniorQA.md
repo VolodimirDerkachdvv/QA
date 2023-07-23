@@ -109,7 +109,7 @@
 
 
 
-Selenium
+1.2.1 Selenium
 
 
 
@@ -163,7 +163,7 @@ Selenium
 
 
 
-Git
+1.2.2 Git
 
 
 
@@ -177,7 +177,7 @@ Git
 
 
 
-CI
+1.2.2 CI
 
 
 
